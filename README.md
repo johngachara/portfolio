@@ -1,4 +1,4 @@
 # portfolio
 my portfolio website
-open the index.html to view the website
+open https://johngachara.github.io/portfolio/ to view the website
 
